@@ -1,15 +1,3 @@
-# Basic Sample Hardhat Project
+# Staa Squares Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/run.js
-npx hardhat help
-```
+A simple NFT contract that allows people to mint up to 50 NFTs for free. Each NFT is a square with a colorful background and provoking text.
